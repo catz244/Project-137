@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width : 100%;
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+canvas{
+    border : 2px white solid;
+    box-shadow: 5px 5px 5px whitesmoke;
+    margin-top: 110px;
+}
